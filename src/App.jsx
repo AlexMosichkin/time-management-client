@@ -1,5 +1,6 @@
-import { React } from 'react';
-import './App.css';
+/* eslint-disable linebreak-style */
+import React from 'react';
+import './App.scss';
 
 const App = () => (
   <div className="App" />
