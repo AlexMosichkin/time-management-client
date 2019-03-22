@@ -8,6 +8,9 @@
     "extends": [
         "airbnb"
     ],
+    "rules": {
+        "linebreak-style": 0
+    },
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
